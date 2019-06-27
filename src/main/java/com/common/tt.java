@@ -1,5 +1,4 @@
 package com.common;
 
-public class rrr {
-
+public class tt {
 }
